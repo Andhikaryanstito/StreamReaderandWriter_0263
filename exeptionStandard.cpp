@@ -15,5 +15,9 @@ int main()
 
         cout << data.at(5) << endl;
         // memanggil array dengan elemen ke 5
-  
+    }
+    catch (exception& e) {
+        // penangkapan menggunakan objek exception
+        cout << e.what() << endl;
+   
   }
