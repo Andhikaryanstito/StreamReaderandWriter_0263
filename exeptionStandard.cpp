@@ -8,4 +8,10 @@ using name spcae std;
 int main()
 {
   cout << "Awal Progam" << endl; //penanda 1:....
+    try {
+        array<int, 3> data = { 10, 20, 30 };
+        // int data[3] = { 10, 20, 30 }
+        // pesan array integer dengan 3 elemen
+
+  }
 }
