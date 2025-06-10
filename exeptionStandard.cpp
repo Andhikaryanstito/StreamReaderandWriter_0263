@@ -13,5 +13,7 @@ int main()
         // int data[3] = { 10, 20, 30 }
         // pesan array integer dengan 3 elemen
 
+        cout << data.at(5) << endl;
+        // memanggil array dengan elemen ke 5
+  
   }
-}
